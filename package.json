@@ -1,0 +1,17 @@
+{
+  "name": "devika",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <img src=\".assets/devika-avatar.png\" alt=\"Devika Logo\" width=\"250\"> </p>",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.45.0",
+    "@types/node": "^20.14.9"
+  }
+}
